@@ -1,3 +1,63 @@
+# 1. Cluster Validation
+<img width="1917" height="352" alt="image" src="https://github.com/user-attachments/assets/ccfc92f5-340e-48ed-9713-b1384a21ffaa" />
+
+# 2. Kubernetes Scaling Proof
+
+<img width="1917" height="191" alt="image" src="https://github.com/user-attachments/assets/cb6e6e95-04ee-4468-88c0-bab6bb8261fe" />
+
+# 3. Kubernetes Dashboard 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,16 +130,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Zomato-Clone
 
-<img width="1600" height="899" alt="39a3f289-41ad-4381-8079-0e2de46cb531" src="https://github.com/user-attachments/assets/5e48b39a-d443-454b-abd3-ba606d959758" />
 
-<img width="1600" height="899" alt="0df69c3d-f3eb-48f3-b039-a3833bde98fe" src="https://github.com/user-attachments/assets/5aab43e8-2317-49ce-92ec-8d1bddb5ca52" />
-
-
-<img width="1600" height="899" alt="aa5dfdb4-2803-434d-b3c2-4613f72564bc" src="https://github.com/user-attachments/assets/0dfba8b2-ed2c-4108-a3d1-61c453713fa8" />
-
-<img width="1600" height="899" alt="4934c3d7-a4b3-488c-8d41-d81a72840e88" src="https://github.com/user-attachments/assets/12467c2e-18e8-47c2-af71-f55eabcd4ecd" />
-
-<img width="1600" height="899" alt="ee9cc381-4ca8-470c-8d34-001fc50e9218" src="https://github.com/user-attachments/assets/ebaad6c7-6f1d-4fcc-9535-5e0dbfff470f" />
 
 
 
